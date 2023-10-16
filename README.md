@@ -7,3 +7,4 @@ It requires a Cascade file (already given) to detect faces. Python Open Cv Modul
 # Features
 - Detects any human face infront of the camera.
 - tells about the number of faces detected.
+- draws a green box around the face detected.
