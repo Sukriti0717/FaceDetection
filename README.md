@@ -1,4 +1,4 @@
-# CodeClauseInternship_FaceDetection
+# FaceDetection
 This is a simple script for detecting faces in a live camera feed using Python and Opencv module. It draws a rectangle every time it detects a human face.
 
 # Requirements
